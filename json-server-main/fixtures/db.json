@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title"
+    },
+    {
+      "id": "2",
+      "title": "another title"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  
+  "seriePreferidas": [
+    {
+      "id": "45789",
+      "titulo": "Sturm der Liebe",
+      "img": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+      "date": "2005-09-26",
+      "text": "",
+      "teste": "Minha série favoritaaaaaaaaa"
+    },
+    {
+      "id": "94722",
+      "titulo": "Tagesschau",
+      "img": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+      "date": "1952-12-26",
+      "text": "Tagesschau é um serviço de notícias de televisão nacional e internacional alemão produzido pela equipe editorial da ARD-aktuell em nome da rede de televisão de serviço público alemão ARD"
+    },
+    {
+      "id": "256121",
+      "titulo": "Lavender Fields",
+      "img": "/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
+      "date": "2024-09-02",
+      "text": ""
+    },
+    {
+      "id": "231344",
+      "titulo": "Los 50",
+      "img": "/5u4lYLk0kDf6XTUIENhXkaUV2jQ.jpg",
+      "date": "2023-07-18",
+      "text": ""
+    },
+    {
+      "id": "13008",
+      "titulo": "TMZ",
+      "img": "/ifFpUG51DJaQxwnZ35VwoGRFGGv.jpg",
+      "date": "2007-09-10",
+      "text": ""
+    },
+    {
+      "id": "248890",
+      "titulo": "Ready Steady Cook South Africa",
+      "img": "/30xX4IMbgnMbQwo76xM4BOSokZO.jpg",
+      "date": "2024-03-18",
+      "text": "No Ready Steady Cook, duas equipes — um Red Tomato e um Green Pepper — competem em uma Red Kitchen e uma Green Kitchen, com um chef sul-africano de cada lado e cozinheiros domésticos entusiasmados, enquanto são desafiados criativamente com um misterioso saco de ingredientes em uma competição de culinária de 20 minutos."
+    }
+  ]
+}
